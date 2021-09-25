@@ -1,0 +1,16 @@
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\bin\Debug\net5.0\InfinteLoop.exe
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\bin\Debug\net5.0\InfinteLoop.deps.json
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\bin\Debug\net5.0\InfinteLoop.runtimeconfig.json
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\bin\Debug\net5.0\InfinteLoop.runtimeconfig.dev.json
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\bin\Debug\net5.0\InfinteLoop.dll
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\bin\Debug\net5.0\ref\InfinteLoop.dll
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\bin\Debug\net5.0\InfinteLoop.pdb
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\obj\Debug\net5.0\InfinteLoop.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\obj\Debug\net5.0\InfinteLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\obj\Debug\net5.0\InfinteLoop.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\obj\Debug\net5.0\InfinteLoop.AssemblyInfo.cs
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\obj\Debug\net5.0\InfinteLoop.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\obj\Debug\net5.0\InfinteLoop.dll
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\obj\Debug\net5.0\ref\InfinteLoop.dll
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\obj\Debug\net5.0\InfinteLoop.pdb
+C:\Users\sande\source\repos\LoopsAndRandomNumbers\InfinteLoop\obj\Debug\net5.0\InfinteLoop.genruntimeconfig.cache
